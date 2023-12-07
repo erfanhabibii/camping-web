@@ -15,5 +15,5 @@ Mobile first
 
 <br/>
 
-## Licens
+## License
 [MIT](LICENSE)
