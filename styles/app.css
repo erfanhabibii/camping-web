@@ -137,7 +137,7 @@ body {
     background: linear-gradient(rgba(59,55,53,0.5), rgba(59,55,53,0.5)), url(../images/header-bg.jpg);
     background-position: center;
     background-size: cover;
-    height: 38.5rem;
+    height: 38rem;
     border-bottom-left-radius: 7rem;
     border-bottom-right-radius: 7rem;
 }
