@@ -4,7 +4,7 @@ Example of camping web template implementation with <img src="https://img.shield
 <br/>
 
 ## Demo
-[https://erfanhabibii.github.io/personalwebsite](https://erfanhabibii.github.io/campingWeb/)
+[https://erfanhabibii.github.io/campingweb](https://erfanhabibii.github.io/campingWeb/)
 
 <br/>
 
