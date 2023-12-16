@@ -137,7 +137,7 @@ body {
     background: linear-gradient(rgba(59,55,53,0.5), rgba(59,55,53,0.5)), url(../images/header-bg.jpg);
     background-position: center;
     background-size: cover;
-    height: 38rem;
+    height: 43rem;
     border-bottom-left-radius: 7rem;
     border-bottom-right-radius: 7rem;
 }
@@ -826,7 +826,6 @@ body {
     .header-content__title {
         font-size: 4.5rem;
         max-width: 40rem;
-        margin-top: 0rem;
     }
     .destinations__title {
         font-size: 2.5rem;
