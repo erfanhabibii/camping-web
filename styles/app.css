@@ -772,6 +772,26 @@ body {
 }
 /* 
 ==================
+    Overlay    
+==================
+*/
+.overlay{
+    visibility: hidden;
+    position: fixed;
+    inset: 0px;
+    z-index: 10;
+    height: 100%;
+    width: 100%;
+    background-color: rgb(0 0 0 / 0.4);
+    opacity: 0;
+    transition: all 250ms ease-in;
+}
+.overlay--show{
+    visibility: visible;
+    opacity: 1;
+}
+/* 
+==================
     Responsive    
 ==================
 */
